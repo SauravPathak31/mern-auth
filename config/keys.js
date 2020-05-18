@@ -1,4 +1,4 @@
 module.exports = {
-  mongoURI: "YOUR_MONGO_URI_HERE",
+  mongoURI: "mongodb+srv://admin:<password>@myfirstcluster-tnzpi.gcp.mongodb.net/mern_login?retryWrites=true&w=majority",
   secretOrKey: "secret"
 };
